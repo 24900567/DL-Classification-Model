@@ -192,19 +192,16 @@ Include screenshot of the dataset.
 
 ### OUTPUT
 ![WhatsApp Image 2026-02-04 at 8 59 30 AM](https://github.com/user-attachments/assets/09b60c27-0ad5-4870-a979-dc2a14490514)
-![WhatsApp Image 2026-02-04 at 8 59 30 AM (1)](https://github.com/user-attachments/assets/b28338fc-0f88-4796-86c8-4c8ca6e25919)
-![WhatsApp Image 2026-02-04 at 8 59 30 AM (2)](https://github.com/user-attachments/assets/053ca35f-6095-4a26-8862-74346c43aec5)
-![WhatsApp Image 2026-02-04 at 8 59 30 AM (3)](https://github.com/user-attachments/assets/ef9e3af5-4a82-47f8-ab12-8cf1efed5985)
 
 ## Confusion Matrix
+![WhatsApp Image 2026-02-04 at 8 59 30 AM (1)](https://github.com/user-attachments/assets/b28338fc-0f88-4796-86c8-4c8ca6e25919)
 
-Include confusion matrix here
+
 
 ## Classification Report
-Include classification report here
+![WhatsApp Image 2026-02-04 at 8 59 30 AM (2)](https://github.com/user-attachments/assets/053ca35f-6095-4a26-8862-74346c43aec5)
 
 ### New Sample Data Prediction
-Include your sample input and output here
-
+![WhatsApp Image 2026-02-04 at 8 59 30 AM (3)](https://github.com/user-attachments/assets/ef9e3af5-4a82-47f8-ab12-8cf1efed5985)
 ## RESULT
-Include your result here
+Thus, a neural network classification model was successfully developed and trained using PyTorch
